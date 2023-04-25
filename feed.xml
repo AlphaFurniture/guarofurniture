@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Guaro Furniture</title>
-    <link href="https://alphafurniture.github.io/guarofurniture/feed.xml" rel="self" />
-    <link href="https://alphafurniture.github.io/guarofurniture" />
+    <link href="https://guarofurniture.com/feed.xml" rel="self" />
+    <link href="https://guarofurniture.com" />
     <updated>2023-04-25T23:44:16+03:00</updated>
     <author>
         <name>Admin</name>
     </author>
-    <id>https://alphafurniture.github.io/guarofurniture</id>
+    <id>https://guarofurniture.com</id>
 
     <entry>
         <title>Contact Us</title>
         <author>
             <name>Admin</name>
         </author>
-        <link href="https://alphafurniture.github.io/guarofurniture/contact-us.html"/>
-        <id>https://alphafurniture.github.io/guarofurniture/contact-us.html</id>
+        <link href="https://guarofurniture.com/contact-us.html"/>
+        <id>https://guarofurniture.com/contact-us.html</id>
 
         <updated>2023-04-25T23:44:16+03:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://alphafurniture.github.io/guarofurniture/media/posts/2/gallery/2022-11-11.jpg" data-size="212x160"><img loading="lazy" src="https://alphafurniture.github.io/guarofurniture/media/posts/2/gallery/2022-11-11-thumbnail.webp" alt="" width="212" height="160"></a></figure>
-<figure class="gallery__item"><a href="https://alphafurniture.github.io/guarofurniture/media/posts/2/gallery/2022-11-11-1.jpg" data-size="677x510"><img loading="lazy" src="https://alphafurniture.github.io/guarofurniture/media/posts/2/gallery/2022-11-11-1-thumbnail.webp" alt="" width="677" height="510"></a></figure>
-<figure class="gallery__item"><a href="https://alphafurniture.github.io/guarofurniture/media/posts/2/gallery/314680973_127075436826094_4375597855957434131_n.jpg" data-size="1440x1440"><img loading="lazy" src="https://alphafurniture.github.io/guarofurniture/media/posts/2/gallery/314680973_127075436826094_4375597855957434131_n-thumbnail.webp" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://alphafurniture.github.io/guarofurniture/media/posts/2/gallery/324015995_3053358721631527_4984975187592476312_n.jpg" data-size="1440x1440"><img loading="lazy" src="https://alphafurniture.github.io/guarofurniture/media/posts/2/gallery/324015995_3053358721631527_4984975187592476312_n-thumbnail.webp" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://alphafurniture.github.io/guarofurniture/media/posts/2/gallery/314387649_126068516926786_2657617410677919513_n.jpg" data-size="1440x1800"><img loading="lazy" src="https://alphafurniture.github.io/guarofurniture/media/posts/2/gallery/314387649_126068516926786_2657617410677919513_n-thumbnail.webp" alt="" width="768" height="960"></a></figure>
-<figure class="gallery__item"><a href="https://alphafurniture.github.io/guarofurniture/media/posts/2/gallery/311698623_121763427357295_5609880827710814213_n-Copy.jpg" data-size="1440x1800"><img loading="lazy" src="https://alphafurniture.github.io/guarofurniture/media/posts/2/gallery/311698623_121763427357295_5609880827710814213_n-Copy-thumbnail.webp" alt="" width="768" height="960"></a></figure>
-<figure class="gallery__item"><a href="https://alphafurniture.github.io/guarofurniture/media/posts/2/gallery/311339623_117854154407744_424860107690684440_n.jpg" data-size="1440x1440"><img loading="lazy" src="https://alphafurniture.github.io/guarofurniture/media/posts/2/gallery/311339623_117854154407744_424860107690684440_n-thumbnail.webp" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://alphafurniture.github.io/guarofurniture/media/posts/2/gallery/312097383_122106543989650_2354691492510822033_n.jpg" data-size="1440x1084"><img loading="lazy" src="https://alphafurniture.github.io/guarofurniture/media/posts/2/gallery/312097383_122106543989650_2354691492510822033_n-thumbnail.webp" alt="" width="768" height="578"></a></figure>
-<figure class="gallery__item"><a href="https://alphafurniture.github.io/guarofurniture/media/posts/2/gallery/314399956_127357470131224_2079383373864853687_n.jpg" data-size="1440x1085"><img loading="lazy" src="https://alphafurniture.github.io/guarofurniture/media/posts/2/gallery/314399956_127357470131224_2079383373864853687_n-thumbnail.webp" alt="" width="768" height="579"></a></figure>
-<figure class="gallery__item"><a href="https://alphafurniture.github.io/guarofurniture/media/posts/2/gallery/316821257_131533386380299_5499740680465084630_n.jpg" data-size="1440x1440"><img loading="lazy" src="https://alphafurniture.github.io/guarofurniture/media/posts/2/gallery/316821257_131533386380299_5499740680465084630_n-thumbnail.webp" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://alphafurniture.github.io/guarofurniture/media/posts/2/gallery/333022060_6210835102289385_7805636091039012393_n.jpg" data-size="1194x1194"><img loading="lazy" src="https://alphafurniture.github.io/guarofurniture/media/posts/2/gallery/333022060_6210835102289385_7805636091039012393_n-thumbnail.webp" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://alphafurniture.github.io/guarofurniture/media/posts/2/gallery/339153664_746169293828425_743994924814735045_n.jpg" data-size="315x315"><img loading="lazy" src="https://alphafurniture.github.io/guarofurniture/media/posts/2/gallery/339153664_746169293828425_743994924814735045_n-thumbnail.webp" alt="" width="315" height="315"></a></figure>
-<figure class="gallery__item"><a href="https://alphafurniture.github.io/guarofurniture/media/posts/2/gallery/335718654_1360990488021173_3311470026776507260_n.jpg" data-size="1073x1073"><img loading="lazy" src="https://alphafurniture.github.io/guarofurniture/media/posts/2/gallery/335718654_1360990488021173_3311470026776507260_n-thumbnail.webp" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://guarofurniture.com/media/posts/2/gallery/2022-11-11.jpg" data-size="212x160"><img loading="lazy" src="https://guarofurniture.com/media/posts/2/gallery/2022-11-11-thumbnail.webp" alt="" width="212" height="160"></a></figure>
+<figure class="gallery__item"><a href="https://guarofurniture.com/media/posts/2/gallery/2022-11-11-1.jpg" data-size="677x510"><img loading="lazy" src="https://guarofurniture.com/media/posts/2/gallery/2022-11-11-1-thumbnail.webp" alt="" width="677" height="510"></a></figure>
+<figure class="gallery__item"><a href="https://guarofurniture.com/media/posts/2/gallery/314680973_127075436826094_4375597855957434131_n.jpg" data-size="1440x1440"><img loading="lazy" src="https://guarofurniture.com/media/posts/2/gallery/314680973_127075436826094_4375597855957434131_n-thumbnail.webp" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://guarofurniture.com/media/posts/2/gallery/324015995_3053358721631527_4984975187592476312_n.jpg" data-size="1440x1440"><img loading="lazy" src="https://guarofurniture.com/media/posts/2/gallery/324015995_3053358721631527_4984975187592476312_n-thumbnail.webp" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://guarofurniture.com/media/posts/2/gallery/314387649_126068516926786_2657617410677919513_n.jpg" data-size="1440x1800"><img loading="lazy" src="https://guarofurniture.com/media/posts/2/gallery/314387649_126068516926786_2657617410677919513_n-thumbnail.webp" alt="" width="768" height="960"></a></figure>
+<figure class="gallery__item"><a href="https://guarofurniture.com/media/posts/2/gallery/311698623_121763427357295_5609880827710814213_n-Copy.jpg" data-size="1440x1800"><img loading="lazy" src="https://guarofurniture.com/media/posts/2/gallery/311698623_121763427357295_5609880827710814213_n-Copy-thumbnail.webp" alt="" width="768" height="960"></a></figure>
+<figure class="gallery__item"><a href="https://guarofurniture.com/media/posts/2/gallery/311339623_117854154407744_424860107690684440_n.jpg" data-size="1440x1440"><img loading="lazy" src="https://guarofurniture.com/media/posts/2/gallery/311339623_117854154407744_424860107690684440_n-thumbnail.webp" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://guarofurniture.com/media/posts/2/gallery/312097383_122106543989650_2354691492510822033_n.jpg" data-size="1440x1084"><img loading="lazy" src="https://guarofurniture.com/media/posts/2/gallery/312097383_122106543989650_2354691492510822033_n-thumbnail.webp" alt="" width="768" height="578"></a></figure>
+<figure class="gallery__item"><a href="https://guarofurniture.com/media/posts/2/gallery/314399956_127357470131224_2079383373864853687_n.jpg" data-size="1440x1085"><img loading="lazy" src="https://guarofurniture.com/media/posts/2/gallery/314399956_127357470131224_2079383373864853687_n-thumbnail.webp" alt="" width="768" height="579"></a></figure>
+<figure class="gallery__item"><a href="https://guarofurniture.com/media/posts/2/gallery/316821257_131533386380299_5499740680465084630_n.jpg" data-size="1440x1440"><img loading="lazy" src="https://guarofurniture.com/media/posts/2/gallery/316821257_131533386380299_5499740680465084630_n-thumbnail.webp" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://guarofurniture.com/media/posts/2/gallery/333022060_6210835102289385_7805636091039012393_n.jpg" data-size="1194x1194"><img loading="lazy" src="https://guarofurniture.com/media/posts/2/gallery/333022060_6210835102289385_7805636091039012393_n-thumbnail.webp" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://guarofurniture.com/media/posts/2/gallery/339153664_746169293828425_743994924814735045_n.jpg" data-size="315x315"><img loading="lazy" src="https://guarofurniture.com/media/posts/2/gallery/339153664_746169293828425_743994924814735045_n-thumbnail.webp" alt="" width="315" height="315"></a></figure>
+<figure class="gallery__item"><a href="https://guarofurniture.com/media/posts/2/gallery/335718654_1360990488021173_3311470026776507260_n.jpg" data-size="1073x1073"><img loading="lazy" src="https://guarofurniture.com/media/posts/2/gallery/335718654_1360990488021173_3311470026776507260_n-thumbnail.webp" alt="" width="768" height="768"></a></figure>
 </div></div>
 <hr class="separator--long-line">
 <p><a href="#INTERNAL_LINK#/post/null"><div class="post__iframe"><iframe width="600" height="450" style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d985.1204882958338!2d38.82655776953826!3d9.019722923961687!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x164b9b7f2ba79451%3A0x9d285af5f9667acf!2sGuaro%20Furniture!5e0!3m2!1sen!2snl!4v1682107747135!5m2!1sen!2snl" allowfullscreen="allowfullscreen" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div></a></p>
